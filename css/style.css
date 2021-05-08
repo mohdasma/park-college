@@ -245,7 +245,7 @@ li.active {
 /**content**/
 #content {
     width     : 1000px;
-    height    : 940px;
+    height    : 970px;
     margin-top: 30px;
 }
 
@@ -268,11 +268,14 @@ li.active {
     height: 198px;
 }
 
+.flickr {
+    padding: 15px 0 10px 0;
+}
 
 .cont-left,
 .cont-mid,
 .cont-right {
-    height: 890px;
+    height: 925px;
 }
 
 .cont-left img {
@@ -578,7 +581,7 @@ p {
 
 .section-two p {
     display         : inline-block;
-    margin          : 10px 5px 5px 5px;
+    margin          : 10px 10px 5px 5px;
     padding         : 5px;
     background-color: #1f9b5f;
     color           : #fff;
@@ -597,9 +600,9 @@ p {
 }
 
 .footer-bot {
-    width           : 1000px;
     height          : 50px;
     background-color: #10a062;
+
 }
 
 .footer-bot h6 {
